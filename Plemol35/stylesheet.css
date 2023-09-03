@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-ExtraLightItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35 Text";
+  src: url("PlemolJP35-Text.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35 Text";
+  src: url("PlemolJP35-TextItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP35";
+  src: url("PlemolJP35-ThinItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+}

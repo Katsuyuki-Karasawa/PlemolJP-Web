@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-ExtraLightItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP Text";
+  src: url("PlemolJP-Text.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP Text";
+  src: url("PlemolJP-TextItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-ThinItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlemolJP";
+  src: url("PlemolJP-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
