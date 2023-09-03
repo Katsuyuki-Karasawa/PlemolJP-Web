@@ -21,4 +21,4 @@ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
 
 # Thanks!
 
-<a href=https://github.com/yuru7><img src="https://github.com/yuru7.png" alt="yuru7" style="display: inline-block; width: 100px; height: 100px;">
+[![yuru7](https://github.com/yuru7.png)](https://github.com/yuru7)
